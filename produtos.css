@@ -88,11 +88,16 @@ nav li:hover{
 
 #logofooter{
     position: relative;
-    right: 500px;
+    right: 380px;
+    top: 25px;
 }
 
 footer{
     background: url("imagens/bg.jpg");
-    color: black;
+    color: rgb(255, 254, 254);
     text-align: center;
+}
+
+footer p{
+    padding: 10px;
 }
